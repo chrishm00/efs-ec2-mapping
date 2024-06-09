@@ -1,6 +1,6 @@
 ## In Memory
 
-In memory of someone amazing who always motivated me to achieve greater things and never give up. My dad continues to be my inspiration. This project is dedicated to the memory of an amazing dad that I will never forget.
+This project is dedicated to the memory of an amazing dad that always inspired me to continue working and never give up…
 
 # EFS-EC2 Mapping
 
